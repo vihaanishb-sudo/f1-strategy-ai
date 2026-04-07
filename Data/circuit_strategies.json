@@ -1,0 +1,227 @@
+{
+  "Bahrain Grand Prix": {
+    "typical_stops": 2,
+    "compounds_used": [
+      "HARD",
+      "SOFT"
+    ],
+    "avg_stint_lengths": {
+      "HARD": 22.38,
+      "SOFT": 15.14
+    },
+    "avg_lap_times": {
+      "HARD": 97.04,
+      "SOFT": 97.33
+    }
+  },
+  "Monaco Grand Prix": {
+    "typical_stops": 1,
+    "compounds_used": [
+      "HARD",
+      "MEDIUM"
+    ],
+    "avg_stint_lengths": {
+      "HARD": 61.8,
+      "MEDIUM": 16.2
+    },
+    "avg_lap_times": {
+      "HARD": 557.58,
+      "MEDIUM": 1984.89
+    }
+  },
+  "Japanese Grand Prix": {
+    "typical_stops": 3,
+    "compounds_used": [
+      "HARD",
+      "MEDIUM"
+    ],
+    "avg_stint_lengths": {
+      "HARD": 20.83,
+      "MEDIUM": 10.77
+    },
+    "avg_lap_times": {
+      "HARD": 96.63,
+      "MEDIUM": 113.41
+    }
+  },
+  "British Grand Prix": {
+    "typical_stops": 2,
+    "compounds_used": [
+      "HARD",
+      "INTERMEDIATE",
+      "MEDIUM",
+      "SOFT"
+    ],
+    "avg_stint_lengths": {
+      "HARD": 12.5,
+      "INTERMEDIATE": 11.6,
+      "MEDIUM": 24.67,
+      "SOFT": 9.67
+    },
+    "avg_lap_times": {
+      "HARD": 91.81,
+      "INTERMEDIATE": 103.06,
+      "MEDIUM": 93.39,
+      "SOFT": 94.73
+    }
+  },
+  "Italian Grand Prix": {
+    "typical_stops": 2,
+    "compounds_used": [
+      "HARD",
+      "MEDIUM"
+    ],
+    "avg_stint_lengths": {
+      "HARD": 23.25,
+      "MEDIUM": 15.8
+    },
+    "avg_lap_times": {
+      "HARD": 84.37,
+      "MEDIUM": 85.52
+    }
+  },
+  "Saudi Arabian Grand Prix": {
+    "typical_stops": 1,
+    "compounds_used": [
+      "HARD",
+      "MEDIUM"
+    ],
+    "avg_stint_lengths": {
+      "HARD": 43.0,
+      "MEDIUM": 7.0
+    },
+    "avg_lap_times": {
+      "HARD": 93.25,
+      "MEDIUM": 99.21
+    }
+  },
+  "Singapore Grand Prix": {
+    "typical_stops": 1,
+    "compounds_used": [
+      "HARD",
+      "MEDIUM"
+    ],
+    "avg_stint_lengths": {
+      "HARD": 30.0,
+      "MEDIUM": 32.0
+    },
+    "avg_lap_times": {
+      "HARD": 97.63,
+      "MEDIUM": 98.74
+    }
+  },
+  "Belgian Grand Prix": {
+    "typical_stops": 2,
+    "compounds_used": [
+      "HARD",
+      "MEDIUM"
+    ],
+    "avg_stint_lengths": {
+      "HARD": 16.11,
+      "MEDIUM": 12.5
+    },
+    "avg_lap_times": {
+      "HARD": 108.7,
+      "MEDIUM": 110.22
+    }
+  },
+  "Spanish Grand Prix": {
+    "typical_stops": 2,
+    "compounds_used": [
+      "HARD",
+      "MEDIUM",
+      "SOFT"
+    ],
+    "avg_stint_lengths": {
+      "HARD": 30.0,
+      "MEDIUM": 24.4,
+      "SOFT": 19.78
+    },
+    "avg_lap_times": {
+      "HARD": 79.75,
+      "MEDIUM": 80.79,
+      "SOFT": 80.49
+    }
+  },
+  "Canadian Grand Prix": {
+    "typical_stops": 2,
+    "compounds_used": [
+      "HARD",
+      "INTERMEDIATE",
+      "MEDIUM"
+    ],
+    "avg_stint_lengths": {
+      "HARD": 12.5,
+      "INTERMEDIATE": 22.4,
+      "MEDIUM": 20.2
+    },
+    "avg_lap_times": {
+      "HARD": 86.3,
+      "INTERMEDIATE": 93.21,
+      "MEDIUM": 86.72
+    }
+  },
+  "Hungarian Grand Prix": {
+    "typical_stops": 2,
+    "compounds_used": [
+      "HARD",
+      "MEDIUM"
+    ],
+    "avg_stint_lengths": {
+      "HARD": 26.0,
+      "MEDIUM": 21.56
+    },
+    "avg_lap_times": {
+      "HARD": 84.36,
+      "MEDIUM": 84.17
+    }
+  },
+  "Las Vegas Grand Prix": {
+    "typical_stops": 2,
+    "compounds_used": [
+      "HARD",
+      "MEDIUM"
+    ],
+    "avg_stint_lengths": {
+      "HARD": 19.5,
+      "MEDIUM": 11.0
+    },
+    "avg_lap_times": {
+      "HARD": 98.36,
+      "MEDIUM": 100.3
+    }
+  },
+  "Chinese Grand Prix": {
+    "typical_stops": 1,
+    "compounds_used": [
+      "HARD",
+      "MEDIUM"
+    ],
+    "avg_stint_lengths": {
+      "HARD": 27.71,
+      "MEDIUM": 17.2
+    },
+    "avg_lap_times": {
+      "HARD": 108.25,
+      "MEDIUM": 102.69
+    }
+  },
+  "Australian Grand Prix": {
+    "typical_stops": 3,
+    "compounds_used": [
+      "HARD",
+      "MEDIUM",
+      "SOFT"
+    ],
+    "avg_stint_lengths": {
+      "HARD": 34.57,
+      "MEDIUM": 6.6,
+      "SOFT": 1.5
+    },
+    "avg_lap_times": {
+      "HARD": 91.82,
+      "MEDIUM": 107.61,
+      "SOFT": 144.44
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "Abu Dhabi Grand Prix": {
+    "SOFT": 0.035,
+    "MEDIUM": 0.0254,
+    "HARD": 0.0323
+  },
+  "Australian Grand Prix": {
+    "SOFT": 0.055,
+    "MEDIUM": 0.0276,
+    "HARD": 0.0388
+  },
+  "Austrian Grand Prix": {
+    "SOFT": 0.08,
+    "MEDIUM": 0.0828,
+    "HARD": 0.0747
+  },
+  "Azerbaijan Grand Prix": {
+    "SOFT": 0.015,
+    "MEDIUM": 0.012,
+    "HARD": 0.008
+  },
+  "Bahrain Grand Prix": {
+    "SOFT": 0.0702,
+    "MEDIUM": 0.052,
+    "HARD": 0.0637
+  },
+  "Belgian Grand Prix": {
+    "SOFT": 0.1146,
+    "MEDIUM": 0.1134,
+    "HARD": 0.0684
+  },
+  "British Grand Prix": {
+    "SOFT": 0.1112,
+    "MEDIUM": 0.1059,
+    "HARD": 0.075
+  },
+  "Canadian Grand Prix": {
+    "SOFT": 0.035,
+    "MEDIUM": 0.0125,
+    "HARD": 0.0325
+  },
+  "Chinese Grand Prix": {
+    "SOFT": 0.055,
+    "MEDIUM": 0.0875,
+    "HARD": 0.022
+  },
+  "Dutch Grand Prix": {
+    "SOFT": 0.0441,
+    "MEDIUM": 0.0554,
+    "HARD": 0.0409
+  },
+  "Emilia Romagna Grand Prix": {
+    "SOFT": 0.035,
+    "MEDIUM": 0.055,
+    "HARD": 0.0325
+  },
+  "Hungarian Grand Prix": {
+    "SOFT": 0.055,
+    "MEDIUM": 0.0471,
+    "HARD": 0.05
+  },
+  "Italian Grand Prix": {
+    "SOFT": 0.035,
+    "MEDIUM": 0.055,
+    "HARD": 0.0325
+  },
+  "Japanese Grand Prix": {
+    "SOFT": 0.055,
+    "MEDIUM": 0.0802,
+    "HARD": 0.0392
+  },
+  "Las Vegas Grand Prix": {
+    "SOFT": 0.015,
+    "MEDIUM": 0.025,
+    "HARD": 0.0073
+  },
+  "Mexico City Grand Prix": {
+    "SOFT": 0.035,
+    "MEDIUM": 0.0375,
+    "HARD": 0.0256
+  },
+  "Miami Grand Prix": {
+    "SOFT": 0.055,
+    "MEDIUM": 0.038,
+    "HARD": 0.024
+  },
+  "Monaco Grand Prix": {
+    "SOFT": 0.015,
+    "MEDIUM": 0.0158,
+    "HARD": 0.0123
+  },
+  "Qatar Grand Prix": {
+    "SOFT": 0.2,
+    "MEDIUM": 0.15,
+    "HARD": 0.095
+  },
+  "Saudi Arabian Grand Prix": {
+    "SOFT": 0.015,
+    "MEDIUM": 0.011,
+    "HARD": 0.008
+  },
+  "Singapore Grand Prix": {
+    "SOFT": 0.0275,
+    "MEDIUM": 0.0391,
+    "HARD": 0.05
+  },
+  "Spanish Grand Prix": {
+    "SOFT": 0.079,
+    "MEDIUM": 0.061,
+    "HARD": 0.0571
+  },
+  "S\u00e3o Paulo Grand Prix": {
+    "SOFT": 0.0735,
+    "MEDIUM": 0.0728,
+    "HARD": 0.02
+  },
+  "United States Grand Prix": {
+    "SOFT": 0.08,
+    "MEDIUM": 0.038,
+    "HARD": 0.0236
+  }
+}

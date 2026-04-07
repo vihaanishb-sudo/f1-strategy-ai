@@ -1,0 +1,8 @@
+Data/cache/
+Data/f1_laps_combined.csv
+Notebooks/data/cache/fastf1_http_cache.sqlite
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.ffrk
+*.ff

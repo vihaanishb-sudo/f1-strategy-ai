@@ -1,0 +1,590 @@
+{
+  "Bahrain Grand Prix": {
+    "year": 2024,
+    "winner": "VER",
+    "winner_full": "Max Verstappen",
+    "strategy": [
+      {
+        "compound": "SOFT",
+        "laps": 17,
+        "avg_lap": 97.162,
+        "fastest_lap": 96.296
+      },
+      {
+        "compound": "HARD",
+        "laps": 20,
+        "avg_lap": 96.876,
+        "fastest_lap": 95.16
+      },
+      {
+        "compound": "SOFT",
+        "laps": 20,
+        "avg_lap": 95.773,
+        "fastest_lap": 92.608
+      }
+    ],
+    "total_laps": 57,
+    "pit_stops": 2
+  },
+  "Saudi Arabian Grand Prix": {
+    "year": 2024,
+    "winner": "VER",
+    "winner_full": "Max Verstappen",
+    "strategy": [
+      {
+        "compound": "MEDIUM",
+        "laps": 7,
+        "avg_lap": 98.294,
+        "fastest_lap": 93.676
+      },
+      {
+        "compound": "HARD",
+        "laps": 43,
+        "avg_lap": 92.808,
+        "fastest_lap": 91.773
+      }
+    ],
+    "total_laps": 50,
+    "pit_stops": 1
+  },
+  "Australian Grand Prix": {
+    "year": 2024,
+    "winner": "SAI",
+    "winner_full": "Carlos Sainz",
+    "strategy": [
+      {
+        "compound": "MEDIUM",
+        "laps": 16,
+        "avg_lap": 83.614,
+        "fastest_lap": 81.715
+      },
+      {
+        "compound": "HARD",
+        "laps": 25,
+        "avg_lap": 83.326,
+        "fastest_lap": 81.078
+      },
+      {
+        "compound": "HARD",
+        "laps": 17,
+        "avg_lap": 82.698,
+        "fastest_lap": 80.031
+      }
+    ],
+    "total_laps": 58,
+    "pit_stops": 2
+  },
+  "Japanese Grand Prix": {
+    "year": 2024,
+    "winner": "VER",
+    "winner_full": "Max Verstappen",
+    "strategy": [
+      {
+        "compound": "MEDIUM",
+        "laps": 1,
+        "avg_lap": 130.735,
+        "fastest_lap": 130.735
+      },
+      {
+        "compound": "MEDIUM",
+        "laps": 15,
+        "avg_lap": 97.548,
+        "fastest_lap": 96.437
+      },
+      {
+        "compound": "MEDIUM",
+        "laps": 18,
+        "avg_lap": 97.782,
+        "fastest_lap": 95.617
+      },
+      {
+        "compound": "HARD",
+        "laps": 19,
+        "avg_lap": 95.82,
+        "fastest_lap": 93.706
+      }
+    ],
+    "total_laps": 53,
+    "pit_stops": 3
+  },
+  "Chinese Grand Prix": {
+    "year": 2024,
+    "winner": "VER",
+    "winner_full": "Max Verstappen",
+    "strategy": [
+      {
+        "compound": "MEDIUM",
+        "laps": 13,
+        "avg_lap": 101.447,
+        "fastest_lap": 100.103
+      },
+      {
+        "compound": "HARD",
+        "laps": 10,
+        "avg_lap": 109.118,
+        "fastest_lap": 99.519
+      },
+      {
+        "compound": "HARD",
+        "laps": 33,
+        "avg_lap": 105.583,
+        "fastest_lap": 98.406
+      }
+    ],
+    "total_laps": 56,
+    "pit_stops": 2
+  },
+  "Miami Grand Prix": {
+    "year": 2024,
+    "winner": "NOR",
+    "winner_full": "Lando Norris",
+    "strategy": [
+      {
+        "compound": "MEDIUM",
+        "laps": 29,
+        "avg_lap": 95.091,
+        "fastest_lap": 91.982
+      },
+      {
+        "compound": "HARD",
+        "laps": 28,
+        "avg_lap": 93.911,
+        "fastest_lap": 90.98
+      }
+    ],
+    "total_laps": 57,
+    "pit_stops": 1
+  },
+  "Emilia Romagna Grand Prix": {
+    "year": 2024,
+    "winner": "VER",
+    "winner_full": "Max Verstappen",
+    "strategy": [
+      {
+        "compound": "MEDIUM",
+        "laps": 24,
+        "avg_lap": 81.424,
+        "fastest_lap": 80.543
+      },
+      {
+        "compound": "HARD",
+        "laps": 39,
+        "avg_lap": 81.31,
+        "fastest_lap": 80.366
+      }
+    ],
+    "total_laps": 63,
+    "pit_stops": 1
+  },
+  "Monaco Grand Prix": {
+    "year": 2024,
+    "winner": "LEC",
+    "winner_full": "Charles Leclerc",
+    "strategy": [
+      {
+        "compound": "MEDIUM",
+        "laps": 1,
+        "avg_lap": 2456.33,
+        "fastest_lap": 2456.33
+      },
+      {
+        "compound": "HARD",
+        "laps": 77,
+        "avg_lap": 78.439,
+        "fastest_lap": 75.162
+      }
+    ],
+    "total_laps": 78,
+    "pit_stops": 1
+  },
+  "Canadian Grand Prix": {
+    "year": 2024,
+    "winner": "VER",
+    "winner_full": "Max Verstappen",
+    "strategy": [
+      {
+        "compound": "INTERMEDIATE",
+        "laps": 25,
+        "avg_lap": 91.334,
+        "fastest_lap": 86.001
+      },
+      {
+        "compound": "INTERMEDIATE",
+        "laps": 20,
+        "avg_lap": 94.846,
+        "fastest_lap": 84.079
+      },
+      {
+        "compound": "MEDIUM",
+        "laps": 25,
+        "avg_lap": 86.706,
+        "fastest_lap": 75.569
+      }
+    ],
+    "total_laps": 70,
+    "pit_stops": 2
+  },
+  "Spanish Grand Prix": {
+    "year": 2024,
+    "winner": "VER",
+    "winner_full": "Max Verstappen",
+    "strategy": [
+      {
+        "compound": "SOFT",
+        "laps": 17,
+        "avg_lap": 81.189,
+        "fastest_lap": 79.364
+      },
+      {
+        "compound": "MEDIUM",
+        "laps": 27,
+        "avg_lap": 80.668,
+        "fastest_lap": 79.363
+      },
+      {
+        "compound": "SOFT",
+        "laps": 22,
+        "avg_lap": 79.18,
+        "fastest_lap": 77.776
+      }
+    ],
+    "total_laps": 66,
+    "pit_stops": 2
+  },
+  "Austrian Grand Prix": {
+    "year": 2024,
+    "winner": "RUS",
+    "winner_full": "George Russell",
+    "strategy": [
+      {
+        "compound": "MEDIUM",
+        "laps": 22,
+        "avg_lap": 71.407,
+        "fastest_lap": 70.193
+      },
+      {
+        "compound": "MEDIUM",
+        "laps": 24,
+        "avg_lap": 71.33,
+        "fastest_lap": 69.563
+      },
+      {
+        "compound": "HARD",
+        "laps": 25,
+        "avg_lap": 71.197,
+        "fastest_lap": 69.164
+      }
+    ],
+    "total_laps": 71,
+    "pit_stops": 2
+  },
+  "British Grand Prix": {
+    "year": 2024,
+    "winner": "HAM",
+    "winner_full": "Lewis Hamilton",
+    "strategy": [
+      {
+        "compound": "MEDIUM",
+        "laps": 27,
+        "avg_lap": 93.726,
+        "fastest_lap": 91.095
+      },
+      {
+        "compound": "INTERMEDIATE",
+        "laps": 11,
+        "avg_lap": 102.917,
+        "fastest_lap": 97.22
+      },
+      {
+        "compound": "SOFT",
+        "laps": 14,
+        "avg_lap": 91.74,
+        "fastest_lap": 89.438
+      }
+    ],
+    "total_laps": 52,
+    "pit_stops": 2
+  },
+  "Hungarian Grand Prix": {
+    "year": 2024,
+    "winner": "PIA",
+    "winner_full": "Oscar Piastri",
+    "strategy": [
+      {
+        "compound": "MEDIUM",
+        "laps": 18,
+        "avg_lap": 84.401,
+        "fastest_lap": 83.796
+      },
+      {
+        "compound": "HARD",
+        "laps": 29,
+        "avg_lap": 84.455,
+        "fastest_lap": 82.654
+      },
+      {
+        "compound": "MEDIUM",
+        "laps": 23,
+        "avg_lap": 83.199,
+        "fastest_lap": 81.716
+      }
+    ],
+    "total_laps": 70,
+    "pit_stops": 2
+  },
+  "Belgian Grand Prix": {
+    "year": 2024,
+    "winner": "HAM",
+    "winner_full": "Lewis Hamilton",
+    "strategy": [
+      {
+        "compound": "MEDIUM",
+        "laps": 11,
+        "avg_lap": 110.295,
+        "fastest_lap": 109.109
+      },
+      {
+        "compound": "HARD",
+        "laps": 15,
+        "avg_lap": 109.494,
+        "fastest_lap": 107.845
+      },
+      {
+        "compound": "HARD",
+        "laps": 18,
+        "avg_lap": 107.884,
+        "fastest_lap": 106.653
+      }
+    ],
+    "total_laps": 44,
+    "pit_stops": 2
+  },
+  "Dutch Grand Prix": {
+    "year": 2024,
+    "winner": "NOR",
+    "winner_full": "Lando Norris",
+    "strategy": [
+      {
+        "compound": "MEDIUM",
+        "laps": 28,
+        "avg_lap": 76.373,
+        "fastest_lap": 75.689
+      },
+      {
+        "compound": "HARD",
+        "laps": 44,
+        "avg_lap": 75.161,
+        "fastest_lap": 73.817
+      }
+    ],
+    "total_laps": 72,
+    "pit_stops": 1
+  },
+  "Italian Grand Prix": {
+    "year": 2024,
+    "winner": "LEC",
+    "winner_full": "Charles Leclerc",
+    "strategy": [
+      {
+        "compound": "MEDIUM",
+        "laps": 15,
+        "avg_lap": 85.448,
+        "fastest_lap": 84.362
+      },
+      {
+        "compound": "HARD",
+        "laps": 38,
+        "avg_lap": 84.184,
+        "fastest_lap": 83.226
+      }
+    ],
+    "total_laps": 53,
+    "pit_stops": 1
+  },
+  "Azerbaijan Grand Prix": {
+    "year": 2024,
+    "winner": "PIA",
+    "winner_full": "Oscar Piastri",
+    "strategy": [
+      {
+        "compound": "MEDIUM",
+        "laps": 15,
+        "avg_lap": 109.293,
+        "fastest_lap": 108.07
+      },
+      {
+        "compound": "HARD",
+        "laps": 36,
+        "avg_lap": 108.151,
+        "fastest_lap": 107.06
+      }
+    ],
+    "total_laps": 51,
+    "pit_stops": 1
+  },
+  "Singapore Grand Prix": {
+    "year": 2024,
+    "winner": "NOR",
+    "winner_full": "Lando Norris",
+    "strategy": [
+      {
+        "compound": "MEDIUM",
+        "laps": 30,
+        "avg_lap": 97.862,
+        "fastest_lap": 96.495
+      },
+      {
+        "compound": "HARD",
+        "laps": 32,
+        "avg_lap": 97.397,
+        "fastest_lap": 94.925
+      }
+    ],
+    "total_laps": 62,
+    "pit_stops": 1
+  },
+  "United States Grand Prix": {
+    "year": 2024,
+    "winner": "LEC",
+    "winner_full": "Charles Leclerc",
+    "strategy": [
+      {
+        "compound": "MEDIUM",
+        "laps": 26,
+        "avg_lap": 100.561,
+        "fastest_lap": 98.951
+      },
+      {
+        "compound": "HARD",
+        "laps": 30,
+        "avg_lap": 99.206,
+        "fastest_lap": 97.834
+      }
+    ],
+    "total_laps": 56,
+    "pit_stops": 1
+  },
+  "Mexico City Grand Prix": {
+    "year": 2024,
+    "winner": "SAI",
+    "winner_full": "Carlos Sainz",
+    "strategy": [
+      {
+        "compound": "MEDIUM",
+        "laps": 32,
+        "avg_lap": 90.366,
+        "fastest_lap": 81.284
+      },
+      {
+        "compound": "HARD",
+        "laps": 39,
+        "avg_lap": 81.13,
+        "fastest_lap": 80.137
+      }
+    ],
+    "total_laps": 71,
+    "pit_stops": 1
+  },
+  "S\u00e3o Paulo Grand Prix": {
+    "year": 2024,
+    "winner": "VER",
+    "winner_full": "Max Verstappen",
+    "strategy": [
+      {
+        "compound": "INTERMEDIATE",
+        "laps": 32,
+        "avg_lap": 89.269,
+        "fastest_lap": 83.43
+      },
+      {
+        "compound": "INTERMEDIATE",
+        "laps": 37,
+        "avg_lap": 87.001,
+        "fastest_lap": 80.472
+      }
+    ],
+    "total_laps": 69,
+    "pit_stops": 1
+  },
+  "Las Vegas Grand Prix": {
+    "year": 2024,
+    "winner": "RUS",
+    "winner_full": "George Russell",
+    "strategy": [
+      {
+        "compound": "MEDIUM",
+        "laps": 12,
+        "avg_lap": 99.41,
+        "fastest_lap": 98.136
+      },
+      {
+        "compound": "HARD",
+        "laps": 20,
+        "avg_lap": 98.846,
+        "fastest_lap": 97.359
+      },
+      {
+        "compound": "HARD",
+        "laps": 18,
+        "avg_lap": 97.564,
+        "fastest_lap": 95.717
+      }
+    ],
+    "total_laps": 50,
+    "pit_stops": 2
+  },
+  "Qatar Grand Prix": {
+    "year": 2024,
+    "winner": "VER",
+    "winner_full": "Max Verstappen",
+    "strategy": [
+      {
+        "compound": "MEDIUM",
+        "laps": 35,
+        "avg_lap": 89.467,
+        "fastest_lap": 84.35
+      },
+      {
+        "compound": "HARD",
+        "laps": 1,
+        "avg_lap": NaN,
+        "fastest_lap": NaN
+      },
+      {
+        "compound": "HARD",
+        "laps": 1,
+        "avg_lap": NaN,
+        "fastest_lap": NaN
+      },
+      {
+        "compound": "HARD",
+        "laps": 20,
+        "avg_lap": 93.761,
+        "fastest_lap": 82.905
+      }
+    ],
+    "total_laps": 57,
+    "pit_stops": 3
+  },
+  "Abu Dhabi Grand Prix": {
+    "year": 2024,
+    "winner": "NOR",
+    "winner_full": "Lando Norris",
+    "strategy": [
+      {
+        "compound": "MEDIUM",
+        "laps": 26,
+        "avg_lap": 90.59,
+        "fastest_lap": 88.86
+      },
+      {
+        "compound": "HARD",
+        "laps": 32,
+        "avg_lap": 88.686,
+        "fastest_lap": 87.438
+      }
+    ],
+    "total_laps": 58,
+    "pit_stops": 1
+  }
+}
