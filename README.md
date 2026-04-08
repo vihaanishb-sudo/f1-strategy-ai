@@ -89,3 +89,27 @@ streamlit run App/dashboard.py
 ---
 
 ## Project Structure
+
+f1-strategy-ai/
+├── App/
+│   └── dashboard.py          # Streamlit dashboard
+├── Data/
+│   ├── f1_laps_combined.csv  # Cleaned lap data
+│   ├── circuit_strategies.json
+│   ├── degradation_rates.json
+│   ├── sc_probability.json
+│   ├── winner_strategies.json
+│   └── fuel_loads.json
+├── Model/
+│   ├── f1_strategy_model.pkl
+│   └── feature_columns.pkl
+├── requirements.txt
+└── README.md
+
+---
+
+## About
+
+Built by Vihaan — IBDP Year 1 student based in Cape Town, South Africa.
+Developed as an independent project combining interests in Formula 1,
+machine learning and software engineering.
