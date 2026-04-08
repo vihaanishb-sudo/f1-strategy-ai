@@ -7,7 +7,7 @@
 
 ---
 
-![F1 Strategy AI Dashboard](assets/screenshot1.png)
+![F1 Strategy AI Dashboard](assets/screenshot2.png)
 
 ---
 
@@ -56,7 +56,7 @@ blending historical SC frequency data with track characteristic scores.
 ## Screenshots
 
 ![Optimal Strategy](assets/screenshot1.png)
-![Strategy Comparison](assets/screenshot2.png)
+![Strategy Comparison](assets/screenshot3.png)
 
 ---
 
