@@ -48,8 +48,8 @@ blending historical SC frequency data with track characteristic scores.
 | Training data | 13,845 laps across 46 races |
 | Seasons | 2022, 2023, 2024 |
 | Circuits | 24 |
-| R² Score | 0.9909 |
-| Mean Absolute Error | 0.49s per lap |
+| R² Score | 0.991 |
+| Mean Absolute Error | ±1.2s per lap |
 
 ---
 
